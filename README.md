@@ -3,5 +3,5 @@ The Vanilla Javascript Framework that allows you to declare yourself as a 10x De
 
 ## Getting started
 
-- Star or form this repo
+- Star or fork this repo
 - Call yourself a 10X developer
